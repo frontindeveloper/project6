@@ -1,0 +1,646 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: 'Barlow', sans-serif;
+
+}
+
+/* ==============================================
+=====Index Of====
+1.Basic Style
+2. Header Style
+3. Hero Style
+4. Cliend Style
+5. FeactureList
+6. Smart Style
+7. Learn Style
+8. Group Style
+09.Pricing Style
+10.Testimonial Style
+11.Faq Style
+12. Download start
+13.Footer Style
+================================================= */
+/* ==============================================
+1. Basic Style
+================================================= */
+/* ==============================================
+2. Header style
+================================================= */
+header{
+    background-color: #f9592f;
+}
+header .head nav{
+
+}
+header .head nav  h2{
+    color: #ffffff;
+    font-size:30px;
+}
+header .head nav p{
+    padding:;
+    margin: 0 auto;
+    color:#ffffff;
+    font-size: 14px;
+    margin-left: 20px;
+}
+header .head nav ul{
+   margin-left: 150px;
+
+}
+header .head nav ul li{
+    color:#ffffff;
+}
+header .head nav ul li a{
+    color: #ffffff;
+}
+header .head nav ul img{
+    
+    padding-left:100px;
+}
+/* ==============================================
+3. Header 2
+================================================= */
+#head{
+    height: 71px;
+    background-color: #fbf2d3;
+}
+#head nav{
+    
+}
+#head .head2 nav ul {
+    padding: 0px px;
+    margin-top: 12px;
+}
+#head nav ul li{
+    
+}
+#head .head2 nav ul li a{
+    color: #7d7253;
+    font-size:16px;
+    padding: 0px 20px;
+}
+#head .head2 nav .menu2 ul li{
+    color: #fbf2d3;
+}
+
+/* ==============================================
+4. Header 3
+================================================= */
+
+/* #head3{
+
+}
+#head .search p{
+    color: #4c4c4c;
+    font-size: 14px;
+}
+ .search nav ul{
+   margin-left:0 auto;
+}
+#head3 .search{
+    
+}
+
+#head3 .search input{
+    background-color: #ffffff;
+    border:none;
+     width:100%;
+     
+    color:#fff;
+    position: relative;
+    border: 2px solid black;
+    
+}
+#head3 .search input i{
+    position: absolute;
+    padding-top:20px;
+    margin-left:10px;
+    background-color: #ffffff;
+    border: 2px solid black;
+    width: 10px;
+}
+
+#head3 .search input:focus{
+    border:none;
+    outline:none;
+
+}
+.search button{ 
+    
+}
+/* .search{
+    box-shadow:0px 2px 7px rgba(0, 0, 0, 0.7) ;
+    display: block;
+    margin: 20px 0px;
+    position:relative;
+}
+.search input{
+    background-color: #fbc301;
+    padding: 10px 5px;
+    border: none;
+    width: 80%;
+    color:#fff;
+}
+.search  input:focus{
+    border: none;
+    outline: none;
+}
+.search button{
+    background-color: #00bdc9;
+    position: absolute;
+    padding: 10px 5px;
+    border: none;
+    width: 20%;
+}
+.search input::placeholder{
+    color: #ffff;
+}
+.search i{
+    color: #ffff; */ */
+/* ==============================================
+5. hero area
+================================================= */
+#hero{
+    
+}
+.hero1{
+    margin-top:60px;
+}
+.hero2{
+    background-color: red;
+    height:100px;
+    padding-bottom: 60px;
+
+}
+.hero2 .icon-box{
+   margin-left: 26px;
+   margin-right: 26px;
+   color: #ffffff;
+   padding: 38px 0px;
+}
+ .hero2 .icon-box .icon1{
+    padding:0px 5px;
+}
+.hero2 .icon-box .icon2{
+    background-color: #fff;
+    border-radius: 50%;
+}
+ .hero2 .icon-box .icon3{
+    padding:0px 5px;
+}
+.hero2 .icon-box .icon4{
+
+}
+.hero2 .icon-box .icon5{
+    padding:0px 5px;
+}
+.hero2 .icon-box .icon6{
+ 
+}
+.hero2 .text{
+    padding: 25px 0px;
+
+    
+
+}
+.hero2 .text p{
+    color: #ffffff;
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.hero2 .text .btn1{
+    border: none;
+    background-color:#9edcda;
+    padding-top: 10px;
+    box-shadow:0px 2px 7px rgba(0, 0, 0, 0.7) ;
+    margin-left: 30px;
+    color: #ffffff;
+}
+.hero2 .text .btn2{
+    padding-top: 10px;
+    margin-left: 30px;
+    border: none;
+    background-color: #fd5f37;
+    box-shadow:0px 2px 7px rgba(0, 0, 0, 0.7) ;
+    color: #ffffff;
+}
+/* ==============================================
+5. feature area
+================================================= */
+#feature{
+    
+}
+#feature .text1 {
+    padding: 40px 0px;
+} 
+#feature .text1 p{
+    color: #747272;
+    font-size: 18px;
+}
+#feature-head{
+    padding: 60px 0px;
+}
+#feature .part1 .img{
+    position: absolute;
+}
+#feature .part1 .img img{
+
+}
+#feature .part1 .img2{
+
+}
+#feature .part1 .img2 img{
+    padding: 10px 7px;
+    position: absolute;
+}
+#feature .part1 .text{
+
+}
+#feature .part1 .text p{
+    position: absolute;
+    margin-top: 190px;
+    margin-left:6px;
+    color: #494949;
+
+}
+#feature .part1 .btnbox{
+
+}
+#feature .part1 .btnbox .btn1{
+    position: absolute;
+    border: none;
+    margin-top: 220px;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #f85831;
+    margin-left:6px;
+}
+#feature .part1 .icon{
+    position: absolute;
+}
+#feature .part1 .icon img{
+    margin-top: 220px;
+    margin-left: 150px;
+}
+#feature-body{
+    margin-top: 270px;
+    margin-right: 30px;
+}
+#feature-body img{
+    margin: 0 auto;
+}
+#feature-footer{
+    padding: 60px 0px;
+}
+#feature-footer .part1 .img{
+    position: absolute;
+}
+#feature-footer .part1 .img img{
+
+}
+#feature-footer .part1 .img2{
+
+}
+#feature-footer .part1 .img2 img{
+    padding: 10px 7px;
+    position: absolute;
+}
+#feature-footer .part1 .text{
+
+}
+#feature-footer .part1 .text p{
+    position: absolute;
+    margin-top: 190px;
+    margin-left:6px;
+    color: #494949;
+
+}
+#feature-footer .part1 .btnbox{
+    position: relative;
+}
+#feature-footer .part1 .btnbox .btn1{
+    position: absolute;
+    border: none;
+    margin-top: 220px;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #f85831;
+    margin-left:6px;
+}
+#feature-footer .part1 .icon{
+    position: absolute;
+}
+#feature-footer .part1 .icon img{
+    margin-top: 220px;
+    margin-left: 150px;
+}
+#feature-footer .part1 .btnbox1{
+    position: absolute;
+} 
+#feature-footer .part1 .btnbox1 .btn2{
+    background-color:#d4d4d4 ;
+    margin-top:55px;
+    width:137px;
+    margin-left: 40px;
+}
+#feature-footer .part1 .btnbox2{
+    position: absolute;
+    border: none;
+} 
+#feature-footer .part1 .btnbox2 .btn3{
+    background-color:#d4d4d4 ;
+    margin-top: 100px;
+    width:137px;
+    margin-left: 40px;
+    color: black;
+}
+.pagination{
+    margin-top: 120px;
+    margin-left:60px;
+    border: none;
+}
+.pagination ul li .li{
+    background-color: #f85831;
+}
+.pagination ul li a{
+    border: none;
+}
+.pagination ul li{
+    background-color: #d5d5d5;
+    color: #d5d5d5;
+}
+/* ==============================================
+6. about style
+================================================= */
+#about{
+    padding: 80px 0px;
+    background-color: #f4ebcd;
+}
+#about .part1{
+
+}
+#about .part1 .text{
+    position: relative;
+}
+#about .part1 .text h4{
+    font-size: 18px;
+    color: #747272;
+    margin-left: 20px;
+}
+
+#about .part1 .text p{
+    color: #7d7253;
+    font-size: 14px;
+}
+#about .part1 .icon{
+    
+}
+#about .part1 .icon i{
+    position: absolute;
+    color: #9f8f68;
+}
+/* ==============================================
+07 footer style
+================================================= */
+footer{
+    background-color: #636363;
+}
+footer .part1{
+    padding: 20px 0px;
+}
+footer .part1 .btn1{
+
+}
+footer .part1 .btn1 a{
+    color: #ffffff;
+    font-size: 18px;
+    text-decoration: none;
+}
+footer .part1 .text {
+    
+}
+footer .part1 .text p{
+    color: #c9c9c9;
+    font-size: 14px;
+}
+footer .part2 {
+    padding: 20px 0px;
+    margin-right: 20px;
+}
+footer .part2 .btn1 a{
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+}
+footer .part2 .btn2 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part2 .btn3 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part2 .btn4 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part2 .btn5 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part1{
+    padding: 20px 0px;
+}
+footer .part1 .btn1{
+
+}
+footer .part1 .btn1 a{
+    color: #ffffff;
+    font-size: 18px;
+    text-decoration: none;
+}
+footer .part1 .text {
+    
+}
+footer .part1 .text p{
+    color: #c9c9c9;
+    font-size: 14px;
+}
+footer .part3 {
+    padding: 20px 0px;
+    margin-right: 20px;
+}
+footer .part3 .btn1 a{
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+}
+footer .part3 .btn2 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part3 .btn3 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part3 .btn4 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part3 .btn5 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part1{
+    padding: 20px 0px;
+}
+footer .part1 .btn1{
+
+}
+footer .part1 .btn1 a{
+    color: #ffffff;
+    font-size: 18px;
+    text-decoration: none;
+}
+footer .part1 .text {
+    
+}
+footer .part1 .text p{
+    color: #c9c9c9;
+    font-size: 14px;
+}
+footer .part4 {
+    padding: 20px 0px;
+    margin-right: 20px;
+}
+footer .part4 .btn1 a{
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+}
+footer .part4 .btn2 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part4 .btn3 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part4 .btn4 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part4 .btn5 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part1{
+    padding: 20px 0px;
+}
+footer .part1 .btn1{
+
+}
+footer .part1 .btn1 a{
+    color: #ffffff;
+    font-size: 18px;
+    text-decoration: none;
+}
+footer .part1 .text {
+    
+}
+footer .part1 .text p{
+    color: #c9c9c9;
+    font-size: 14px;
+}
+footer .part5 {
+    padding: 20px 0px;
+    margin-right: 20px;
+}
+footer .part5 .btn1 a{
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+}
+footer .part5 .btn2 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part5 .btn3 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part5 .btn4 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+footer .part5 .btn5 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+}
+.footer{
+    background-color: #4d4d4d;
+}
+.footer .text1{
+    padding-top: 10px;
+}
+.footer .text1 p{
+    color: #ffffff;
+}
+.footer .text2{
+    padding-top: 10px
+}
+.footer .text2 p{
+    font-size: 14px;
+    color: #ffffff;
+    margin-left: 400px;
+}
+.nav{
+    background-color: #f9f9f9;
+}
+.nav .part1{
+    margin-top: 20px;
+}
+.nav .part1 p{
+    color:black;
+    font-size: 14px;
+}
+.nav nav {
+
+}
+.nav nav ul{
+    margin-right:200px;
+}
+.nav nav ul li{
+
+}
+.nav nav ul li a{
+
+}
+.nav .search{
+    margin-right: 280px;
+}
+.nav .search button{
+   
+}
+.nav .search .btn1{
+    margin-right: 0px;
+    border: none;
+    background-color: #ffffff;
+}
